@@ -1,0 +1,16 @@
+.map {
+  border-radius: 5%;
+}
+.hrline {
+  margin-bottom: 100px;
+}
+
+@media screen and (max-width: 480px) {
+  .map {
+    width: 300px;
+    height: 300px;
+  }
+  .hrline {
+    margin-bottom: 50px;
+  }
+}
