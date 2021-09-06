@@ -1,8 +1,23 @@
 .map {
   border-radius: 5%;
 }
+.text-decoration-line-through {
+  text-decoration: line-through;
+}
+
+.fh5co-contact-info ul li.group:before {
+  font-size: 30px;
+  content: "\2713";
+}
+
 .hrline {
-  margin-bottom: 100px;
+  font-size: 28px;
+  margin-bottom: 50px;
+  line-height: 1.5;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: #000;
 }
 
 @media screen and (max-width: 480px) {
