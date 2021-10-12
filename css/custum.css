@@ -1,0 +1,49 @@
+/* .fh5co-projects-feed, .footer-content { */
+    /* margin: 0 auto; */
+    /* max-width: 1400px; */
+  /* } */
+  /*  */
+  /* .fh5co-projects-feed .fh5co-project { */
+    /* float: left; */
+    /* margin: 20px 20px 20px; */
+    /* width: 290px; */
+  /* } */
+  /* @media screen and (max-width: 480px) { */
+    /* .fh5co-projects-feed .fh5co-project { */
+      /* margin: 10px 10px 10px; */
+    /* } */
+  /* } */
+  /* .fh5co-projects-feed .fh5co-project > a { */
+    /* display: block; */
+    /* text-align: center; */
+  /* } */
+  /* .fh5co-projects-feed .fh5co-project > a img { */
+    /* margin-bottom: 30px; */
+  /* } */
+  /* .fh5co-projects-feed .fh5co-project > a h2 { */
+    /* font-size: 14px; */
+    /* color: #999999; */
+    /* -webkit-transition: 0.3s; */
+    /* -o-transition: 0.3s; */
+    /* transition: 0.3s; */
+  /* } */
+  /* .fh5co-projects-feed .fh5co-project > a:hover h2, .fh5co-projects-feed .fh5co-project > a:active h2, .fh5co-projects-feed .fh5co-project > a:focus h2 { */
+    /* color: #000; */
+  /* } */
+  /*  */
+  /* .masonry, */
+  /* .masonry .masonry-brick { */
+    /* -webkit-transition-duration: 0.7s; */
+    /* transition-duration: 0.7s; */
+  /* } */
+  /*  */
+  /* .masonry { */
+    /* -webkit-transition-property: height, width; */
+    /* transition-property: height, width; */
+  /* } */
+  /*  */
+  /* .masonry .masonry-brick { */
+    /* -webkit-transition-property: left, right, top; */
+    /* transition-property: left, right, top; */
+  /* } */
+  
