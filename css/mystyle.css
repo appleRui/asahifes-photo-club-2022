@@ -25,6 +25,10 @@
   letter-spacing: 1px;
   color: #000;
 }
+/* .cat {
+  text-align: right;
+  padding-top: 100px;
+} */
 
 @media screen and (max-width: 480px) {
   .map {
