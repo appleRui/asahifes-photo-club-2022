@@ -1,0 +1,49 @@
+.button1 {
+  display: block;
+  width: 50%;
+  margin: 0 auto;
+}
+
+.map {
+  border-radius: 5%;
+}
+.text-decoration-line-through {
+  text-decoration: line-through;
+}
+
+.fh5co-contact-info ul li.group:before {
+  font-size: 30px;
+  content: "\2713";
+}
+
+.hrline {
+  font-size: 28px;
+  margin-bottom: 50px;
+  line-height: 1.5;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: #000;
+}
+/* .cat {
+  text-align: right;
+  padding-top: 100px;
+} */
+
+.fix-position {
+  left: -13px;
+}
+
+.fix-position-center {
+  margin: 0;
+}
+
+@media screen and (max-width: 480px) {
+  .map {
+    width: 300px;
+    height: 300px;
+  }
+  .hrline {
+    margin-bottom: 50px;
+  }
+}
